@@ -1,0 +1,22 @@
+body{
+    background-color: #faebd7;
+}
+
+main{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+h1{
+    background-color: #e2d5c5;
+    text-align: center;
+}
+
+.img-small{
+    width: 500px;
+    height: auto; 
+}
+
+.content{
+    align-content: center;
+}
