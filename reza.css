@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: #4b0090;
+}
+.leads {
+  color: #10288c;
+}
+.section {
+  font-size: medium;
+}
+img {
+  float: left;
+  margin-right: 2rem;
+}
