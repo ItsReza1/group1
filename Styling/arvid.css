@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+main{
+    margin-left: 10%;
+}
+h1{
+    font-size: 2em;
+}
+ul{
+    list-style-type: none;
+}
