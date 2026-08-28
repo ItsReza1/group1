@@ -1,0 +1,41 @@
+body {
+  background-color: #fff6a8;
+}
+
+h1 {
+  text-align: center;
+  color: #4b0090;
+  padding-bottom: 2rem;
+  border-bottom: dotted #10288c;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 20px;
+}
+
+.btn-dark {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-weight: bold;
+  border-top: dotted red;
+  border-bottom: dotted red;
+}
+.leads {
+  color: #10288c;
+}
+
+.backtostart {
+  margin-bottom: 4rem;
+  font-size: 1.2rem;
+}
+
+img {
+  float: left;
+  border: dotted crimson;
+  border-radius: 40px;
+  margin-right: 3rem;
+}
