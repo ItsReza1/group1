@@ -1,0 +1,27 @@
+/* Bakgrundsfärfg för sidan */
+body{
+    background-color: #faebd7;
+}
+
+/* Ger ett litet glapp mellan höger och vänster sida på skärmen och själva innehållet inuti main */
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* Ändrar färgen för blocket för att få en liten "banner" effekt samt centrerar texten relativt till skärmens storlek */
+h1{
+    background-color: #e2d5c5;
+    text-align: center;
+}
+
+/* Ändrar så den sorterade listan visas med romerska siffror */
+ol{
+    list-style-type: upper-roman;
+}
+
+/* Sätter bredden på bilden till 500 pixlar, höjden blir relativ till bredden */
+.img-small{
+    width: 500px;
+    height: auto; 
+}
